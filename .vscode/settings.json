@@ -1,0 +1,12 @@
+{
+    "python.linting.enabled": true,
+    "python.jediEnabled": false,
+
+    // Loaded Stubs:  esp8266-micropython-1.10.0 
+    "python.autoComplete.extraPaths": [".micropy/BradenM-micropy-stubs-cabcb03/frozen", ".micropy/BradenM-micropy-stubs-27ee48a/frozen", ".micropy/BradenM-micropy-stubs-cabcb03/stubs", ".micropy/2020 - 05 - 12 ESP8266 Helligkeitssensor"],
+    "python.autoComplete.typeshedPaths":  [".micropy/BradenM-micropy-stubs-cabcb03/frozen", ".micropy/BradenM-micropy-stubs-27ee48a/frozen", ".micropy/BradenM-micropy-stubs-cabcb03/stubs", ".micropy/2020 - 05 - 12 ESP8266 Helligkeitssensor"],
+    "python.analysis.typeshedPaths":  [".micropy/BradenM-micropy-stubs-cabcb03/frozen", ".micropy/BradenM-micropy-stubs-27ee48a/frozen", ".micropy/BradenM-micropy-stubs-cabcb03/stubs", ".micropy/2020 - 05 - 12 ESP8266 Helligkeitssensor"],
+
+    "python.linting.pylintEnabled": true,
+    "python.pythonPath": "/usr/bin/python"
+}
